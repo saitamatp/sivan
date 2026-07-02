@@ -1,11 +1,11 @@
 # Sivan
 
 ## Summary
-ETL tool completly written using Rust (Datafusion), all the deatils are read from paramter file and the tool reads, transforms and loads to the target.
+ETL tool fully developed in Rust using DataFusion, driven by a parameter file to read, transform, and load data into the target system.
 
 ## This tools aims to 
-- **ABC:AnyBody can Code**- Working on creating a front end that will create a paramter file which can be read by this tool. This help people with minimal to no coding experience to work with data. 
-- **High performance**- Since its written on rust can rust faster.
+- **ABC:AnyBody can Code**- Developing a front‑end interface that generates the parameter file consumed by the ETL tool, enabling users with minimal or no coding experience to work seamlessly with data.
+- **High performance**- Written in Rust, the tool delivers high performance and efficient memory management, ensuring fast execution without stability issues.
 
 ## Paramter file example
 ```
